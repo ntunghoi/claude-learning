@@ -1,2 +1,2 @@
-[Building a Senior Staff Engineer Agent with Claude Code](https://github.com/FareedKhan-dev/claude-code-staff-engineer/tree/main)
+[Building a Senior Staff Engineer Agent with Claude Code](https://github.com/FareedKhan-dev/claude-code-staff-engineer/tree/main)   
 [The 6 Claude Code Skills I Would Use for Real Projects](https://levelup.gitconnected.com/the-6-claude-code-skills-i-would-use-for-real-projects-3027810566fd)
